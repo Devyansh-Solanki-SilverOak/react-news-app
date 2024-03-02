@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Express"
+            },
+            "author": "The Financial Express",
+            "title": "Scientists plan to set up a massive fiber optic network on the Moon! No, it’s not about lunar internet services - The Financial Express",
+            "description": null,
+            "url": "https://www.financialexpress.com/life/science/scientists-plan-to-set-up-a-massive-fiber-optic-network-on-the-moon-no-its-not-about-lunar-internet-services-bkg/3410546/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T09:22:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Coral reef suffers 'extensive' bleaching | WION Climate Tracker - WION",
+            "description": "The Southern Great Barrier Reef is suffering from extensive coral bleaching due to heat stress. It is raising fears that a seventh mass bleaching event could...",
+            "url": "https://www.youtube.com/watch?v=xqADMBRN7i8",
+            "urlToImage": "https://i.ytimg.com/vi/xqADMBRN7i8/maxresdefault.jpg",
+            "publishedAt": "2024-03-01T08:55:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "CME could spark a G1-class geomagnetic storm on March 2; Know all about this solar storm danger - HT Tech",
+            "description": "NOAA forecasters have recently revealed details about a solar storm danger as a CME could spark a geomagnetic storm on March 2. Know all the details.",
+            "url": "https://tech.hindustantimes.com/tech/news/cme-could-spark-a-g1-class-geomagnetic-storm-on-march-2-know-all-about-this-solar-storm-danger-71709279680663.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/sun-4444454_1920_1651753999330_1709280207775.jpg",
+            "publishedAt": "2024-03-01T08:20:26Z",
+            "content": "In the last week of February, the Sun turned volatile and hurled out 3 dangerous X-class solar flares in the span of just 24 hours. One of these flares was the strongest one recorded since 2017 and c… [+2653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PINKVILLA"
+            },
+            "author": "Sakina Kaukawala",
+            "title": "What is 2008 OS7? NASA reveals images of stadium-sized asteroid that had close encounter with Earth - PINKVILLA",
+            "description": "NASA Has Recently Provided The Public With Detailed Images Of A Stadium-sized Asteroid Named 2008 OS7, Shedding Light On Its Close Encounter With Earth On February 2, 2024.",
+            "url": "https://www.pinkvilla.com/trending/world/what-is-2008-os7-nasa-reveals-images-of-stadium-sized-asteroid-that-had-close-encounter-with-earth-1282834",
+            "urlToImage": "https://www.pinkvilla.com/images/2024-03/1869789690_untitled-design.jpg",
+            "publishedAt": "2024-03-01T07:32:30Z",
+            "content": "NASA recently released detailed images of 2008 OS7, a stadium-sized asteroid, shedding light on its close encounter with Earth on February 2, 2024. The images, captured by the agency's Deep Space Net… [+2650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today Science Desk",
+            "title": "More water than Earth's ocean: A planet is taking shape next to a young sun - India Today",
+            "description": "The findings reveal that there is at least three times more water than in all of Earth039s oceans combined in this region",
+            "url": "https://www.indiatoday.in/science/story/more-water-than-earths-ocean-a-planet-is-taking-shape-next-to-a-young-sun-2509011-2024-03-01",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/inner-disc-012558378-16x9_0.jpg?VersionId=vVFwjmWadMcBoqACy51Pj5PEsDiDQU9K",
+            "publishedAt": "2024-03-01T06:32:44Z",
+            "content": "Astronomers have discovered an ocean of water vapour around a young sun where new planets are forming in deep space. \r\nThe new findings are key as, so far, astronomers have not been able to map how w… [+1827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Reuters",
+            "title": "US space news: Odysseus spacecraft goes dormant on moon after lopsided landing | Mint - Mint",
+            "description": "Odysseus, the U.S. spacecraft, went dark on the moon after a flawed landing. Intuitive Machines received a farewell transmission and plans to reawaken it if solar power is sufficient. The spacecraft's operation was hindered by the landing",
+            "url": "https://www.livemint.com/news/world/us-space-news-odysseus-spacecraft-goes-dormant-on-moon-after-lopsided-landing-11709255371763.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/Moon_1709007133688_1709255791200.jpg",
+            "publishedAt": "2024-03-01T01:29:03Z",
+            "content": "Odysseus, the first U.S. spacecraft to land on the moon in half a century, lost power and went dormant on Thursday as it entered a frigid lunar night, ending its core mission after a lopsided touchdo… [+4716 chars]"
+        }
+    ]
+}

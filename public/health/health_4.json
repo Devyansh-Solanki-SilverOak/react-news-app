@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Timesofindia.com"
+            },
+            "author": "Kritika Pushkarna",
+            "title": "9 juices that support Arterial health - Recipes",
+            "description": "While diet plays a pivotal role, incorporating nutrient-rich juices into your routine can be a delicious and effective way to support arterial health. Here is a list of juices that are loaded with antioxidants and can help unclog arteries and promote heart he…",
+            "url": "https://recipes.timesofindia.com/web-stories/9-juices-that-support-arterial-health/photostory/108138388.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108138419,imgsize-76304,width-900,height-1200,resizemode-6/108138419.jpg",
+            "publishedAt": "2024-03-01T11:30:00Z",
+            "content": "Maintaining healthy arteries is vital for overall cardiovascular well-being. While diet plays a pivotal role, incorporating nutrient-rich juices into your routine can be a delicious and effective way… [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Science Desk",
+            "title": "COVID-19 lockdowns impacted gut microbes, allergies in newborns: Study - The Indian Express",
+            "description": "A new study on babies born during pandemic restrictions found that they have different gut microbiomes and allergies compared to those born pre-pandemic.",
+            "url": "https://indianexpress.com/article/technology/science/covid-19-pandemic-babies-gut-microbiome-9190302/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/Newborn-baby-20240301.jpg",
+            "publishedAt": "2024-03-01T11:19:05Z",
+            "content": "Lockdowns put in place during the COVID-19 pandemic impacted the gut microbiome development of babies born during the period, according to a study conducted in Ireland.The study published in the jour… [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthshots.com"
+            },
+            "author": "Purvi Kalra",
+            "title": "Consuming ultra-processed foods may increase risk of 32 illnesses: Study - Health shots",
+            "description": "A study highlights the side effects of consuming ultra-processed foods on overall health, explaining why it must be avoided.",
+            "url": "https://www.healthshots.com/health-news/consuming-ultra-processed-foods-may-increase-risk-of-32-illnesses-study/",
+            "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/02/01162431/processed-foods-1.jpg",
+            "publishedAt": "2024-03-01T11:15:06Z",
+            "content": "Watch what you eat! Uncontrolled consumption of ultra-processed foods can spike the risk of adverse health conditions, including certain cancers and major heart and lung conditions, according to a la… [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "The 30s fitness guide - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/web-stories/wellness/the-30s-fitness-guide/9188565/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T11:15:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "ANI",
+            "title": "A simple blood test can quickly diagnose sarcoidosis: Research - Hindustan Times",
+            "description": "Researchers have developed a blood test to rapidly diagnose sarcoidosis - a chronic inflammatory disease where granulomas develop in lungs and other organs. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/a-simple-blood-test-can-quickly-diagnose-sarcoidosis-research-101709289993522.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/sarcoidosis_1709290177613_1709290188411.jpg",
+            "publishedAt": "2024-03-01T10:54:30Z",
+            "content": "A study has created a tool for rapidly and inexpensively diagnosing sarcoidosis, a chronic inflammatory disease characterised by the formation of tiny lumps known as granulomas in the lungs and other… [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "6 Things You Must Know Before Trying A Detox Diet (#2 Is A Common Mistake) - NDTV Food",
+            "description": "A detox diet can be healthy only if followed correctly. Read on to learn about common mistakes to avoid and how to detox the right way.",
+            "url": "https://food.ndtv.com/health/detox-diet-6-dos-and-donts-of-detox-diet-you-must-know-5156282",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/ie68ppio_detox-generic_625x300_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2024-03-01T10:20:22Z",
+            "content": "A detox diet essentially focuses on eating more clean and healthy food. If you have been eating a lot of unhealthy, junk food over the past few days, or not eating properly due to a busy schedule, or… [+3699 chars]"
+        }
+    ]
+}

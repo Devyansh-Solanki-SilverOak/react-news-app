@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Chronicle"
+            },
+            "author": "Guest Post",
+            "title": "Nutritionist reveals 3 foods diabetic patients must include in their daily diet - Deccan Chronicle",
+            "description": "While many of us recognize the importance of incorporating greens into our diets, research indicates that consuming green leafy vegetables can significantly decrease the risk of developing type 2...",
+            "url": "https://www.deccanchronicle.com/lifestyle/nutritionist-reveals-3-foods-diabetic-patients-must-include-in-their-daily-diet-883848",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2024/03/01/1077742-februarypitchimage.jpg",
+            "publishedAt": "2024-03-01T11:31:44Z",
+            "content": "Type-2 diabetes is becoming a significant health concern in India due to factors such as genetic predisposition, changes in diet, and rapid lifestyle shifts. A study, published in The Lancet Diabetes… [+3253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bangladesh fire: At least 46 dead in Dhaka building blaze - BBC.com",
+            "description": "The fire in the capital Dhaka ripped through a seven-floor block - dozens were rescued.",
+            "url": "https://www.bbc.com/news/world-asia-68442375",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C9E7/production/_132778615_67fb68fb39756ce1f764f8131805d320b8486952.jpg",
+            "publishedAt": "2024-03-01T11:28:55Z",
+            "content": "'Jumped to save my life': Survivor on deadly Dhaka fire\r\nA huge fire that broke out in a multi-storey building in the Bangladesh capital Dhaka has killed at least 46 people and injured dozens of othe… [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "msnNOW"
+            },
+            "author": null,
+            "title": "Aircraft-sized asteroid will pass Earth at 5.8 mn km, says NASA; Know speed, size and more - MSN",
+            "description": null,
+            "url": "https://www.msn.com/en-in/news/India/aircraft-sized-asteroid-will-pass-earth-at-5-8-mn-km-says-nasa-know-speed-size-and-more/ar-BB1j97YS",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T11:27:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dst.gov.in"
+            },
+            "author": null,
+            "title": "Tracking the solar source of the most intense geomagnetic storm last year - Department Of Science & Technology",
+            "description": "The Department of Science & Technology plays a pivotal role in promotion of science & technology in the country.",
+            "url": "https://dst.gov.in/tracking-solar-source-most-intense-geomagnetic-storm-last-year",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T11:22:13Z",
+            "content": "In late-April 2023, a severe geomagnetic storm in Earths magnetosphere led to an vivid display of the aurora in in lower latitudes extending to places like Ladakh. Astronomers have used multiwaveleng… [+4548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthshots.com"
+            },
+            "author": "Purvi Kalra",
+            "title": "Consuming ultra-processed foods may increase risk of of 32 illnesses: Study - Health shots",
+            "description": "A study highlights the side effects of consuming ultra-processed foods on overall health, explaining why it must be avoided.",
+            "url": "https://www.healthshots.com/health-news/consuming-ultra-processed-foods-may-increase-risk-of-32-illnesses-study/",
+            "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/02/01162431/processed-foods-1.jpg",
+            "publishedAt": "2024-03-01T11:15:06Z",
+            "content": "Watch what you eat! Uncontrolled consumption of ultra-processed foods can spike the risk of adverse health conditions, including certain cancers and major heart and lung conditions, according to a la… [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Manoj Kumar, Aftab Ahmed",
+            "title": "India Q3 GDP growth boosted by fall in subsidies, say officials - Reuters India",
+            "description": "India's economic growth in the three months through December was much higher than most estimates due to a sharp fall in key subsidies which provided a boost to GDP, two government officials said.",
+            "url": "https://www.reuters.com/world/india/india-q3-gdp-data-may-overstate-growth-trends-economists-say-2024-03-01/",
+            "urlToImage": "https://www.reuters.com/resizer/BK8ydp07zSc-LAvKZX8lCYi6tnw=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FBBHLVHMNKK7KYE7VPNTAHWW4.jpg",
+            "publishedAt": "2024-03-01T11:12:00Z",
+            "content": null
+        }
+    ]
+}

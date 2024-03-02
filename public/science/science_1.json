@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Sayantani Biswas",
+            "title": "Climate change: Scientists explore ‘injecting ice’ to reduce water vapor and cool Earth | Mint - Mint",
+            "description": "Recent study suggests a climate intervention strategy to decrease water vapor concentrations in the atmosphere to cool Earth and counteract human-caused warmth.",
+            "url": "https://www.livemint.com/science/news/climate-change-scientists-explore-injecting-ice-into-upper-atmosphere-to-reduce-water-vapor-and-cool-earth-11709295116772.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/global_warming_1709300751354_1709300751667.jpg",
+            "publishedAt": "2024-03-01T16:21:15Z",
+            "content": "Climate Change from Global Warming are not unknown phenomenon. However, a recent study has said a climate intervention strategy focused on decreasing water vapor (WV) concentrations near the tropopau… [+4243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Azoquantum.com"
+            },
+            "author": null,
+            "title": "Supermassive Black Holes Reveal Merger Slowdown - AZoQuantum",
+            "description": "Gemini North’s data offers a potential elucidation for the cessation of the merger between two supermassive binary black holes.",
+            "url": "https://www.azoquantum.com/News.aspx?newsID=10139",
+            "urlToImage": "https://dwg31ai31okv0.cloudfront.net/images/news/ImageForNews_10139_17092929305589020.jpg",
+            "publishedAt": "2024-03-01T13:58:00Z",
+            "content": "Mar 1 2024Reviewed by Lexie Corner\r\nGemini North’s data offers a potential elucidation for the cessation of the merger between two supermassive binary black holes.\r\nArtist’s Impression of Heaviest Su… [+6421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "msnNOW"
+            },
+            "author": null,
+            "title": "Total solar eclipse 2024: Know when and where to witness this rare celestial event - MSN",
+            "description": null,
+            "url": "https://www.msn.com/en-in/news/India/total-solar-eclipse-2024-know-when-and-where-to-witness-this-rare-celestial-event/ar-BB1janSw?ocid=weather-verthp-feeds",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T13:47:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "5 asteroids set to pass Earth in the coming days, reveals NASA; Check speed, size and more - HT Tech",
+            "description": "5 massive asteroids are expected to pass Earth in the coming days, according to NASA. From speed, and size to distance of approach, know all about the asteroids.",
+            "url": "https://tech.hindustantimes.com/photos/5-asteroids-set-to-pass-earth-in-the-coming-days-reveals-nasa-check-speed-size-and-more-71709299869176.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/g94259f744c86d345088c6d639b_1709299917127_1709299917457.jpg",
+            "publishedAt": "2024-03-01T13:34:36Z",
+            "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FreshPlaza.com"
+            },
+            "author": null,
+            "title": "Assam scientists created a natural wound dressing using banana fibers - FreshPlaza.com",
+            "description": "In Assam, researchers at the Institute of Advanced Study in Science and Technology have unveiled a groundbreaking wound dressing material crafted from banana pseudostems, typically discarded…",
+            "url": "https://www.freshplaza.com/asia/article/9605215/assam-scientists-created-a-natural-wound-dressing-using-banana-fibers/",
+            "urlToImage": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Banana/Banana_FP_img_0031.jpg?preset=OgImage",
+            "publishedAt": "2024-03-01T13:01:59Z",
+            "content": "In Assam, researchers at the Institute of Advanced Study in Science and Technology have unveiled a groundbreaking wound dressing material crafted from banana pseudostems, typically discarded after ha… [+1110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Khushi Pal",
+            "title": "10 stunning photos of galaxy clusters captured by NASA - Hindustan Times",
+            "description": "Here are 10 captivating pics of clusters shared by NASA.",
+            "url": "https://www.hindustantimes.com/web-stories/in-focus/10-stunning-photos-of-galaxy-clusters-captured-by-nasa-101709290042883.html",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T12:43:32Z",
+            "content": "By Khushi PalPublished Mar 01, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
+        }
+    ]
+}

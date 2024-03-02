@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Mohammad Haris",
+            "title": "India's Manufacturing Sector Growth Hits 5-Month High in February on Robust Demand - News18",
+            "description": "The seasonally adjusted HSBC India Manufacturing Purchasing Managers' Index (PMI) rose from 56.5 in January to 56.9 in February, pointing to the strongest improvement in the health of the sector since September 2023",
+            "url": "https://www.news18.com/business/indias-manufacturing-sector-growth-hits-5-month-high-in-february-on-robust-demand-8798873.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/09/electronics-169502133416x9.jpg",
+            "publishedAt": "2024-03-01T15:32:09Z",
+            "content": "Indias manufacturing sector growth climbed to a five-month high in February amid a sharper uptick in factory production and sales, supported by both domestic and external demand, a monthly survey sai… [+2348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ndtvprofit.com"
+            },
+            "author": "NDTV Profit Desk",
+            "title": "Delhi Court Asks Bloomberg To Take Down Article On Zee - NDTV Profit",
+            "description": "The article 'incorrectly published' that SEBI has found a $241 million accounting issue at the company, Zee said.",
+            "url": "https://www.ndtvprofit.com/law-and-policy/delhi-court-asks-bloomberg-to-remove-article-on-zee",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-01%2Fc0f6f09c-1e42-453b-9ab0-00803d32cd12%2F_1x_1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2024-03-01T15:27:22Z",
+            "content": "A Delhi court has ordered Bloomberg to take down an article that alleged corporate governance issues at Zee Entertainment Enterprises Ltd. and reported that the market regulator has found a $241-mill… [+2105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrackr"
+            },
+            "author": "Entrackr",
+            "title": "Google delists select Indian apps over violations of Play Store policies - Entrackr",
+            "description": null,
+            "url": "https://entrackr.com/2024/03/google-delists-select-indian-apps-over-violations-of-play-store-policies/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T14:28:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Vidya Sreedhar",
+            "title": "BSE Rejig: 54 stocks enter smallcap index, Jio Financial added to largecap pack - The Economic Times",
+            "description": "BSE added 57 stocks to the S&P BSE MidSmallcap Index, while 58 stocks entered the S&P BSE Allcap Index. Jio Financial Services was the only addition to the S&P BSE Largecap Index. Jio Financial has also been added to BSE Allcap and LargeMidcap indices. These …",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-adds-54-stocks-to-smallcap-index-jio-financial-added-to-largecap-pack/articleshow/108142729.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-108142695,width-1200,height-630,imgsize-113624,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2024-03-01T13:21:43Z",
+            "content": "MUMBAI - Asia Index Pvt Ltd has done major rejigs across midcap and smallcap indices of BSE, and the changes will be effective from March 18. The financial indices provider has added 54 stocks to the… [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "NSE, BSE to conduct special live trading session tomorrow: Check timings, trade settlement details - Moneycontrol",
+            "description": "The special live trading session on March 2 will divided into two phases for transition from the primary site to disaster recovery site.",
+            "url": "https://www.moneycontrol.com/news/business/markets/nse-bse-to-conduct-special-live-trading-session-tomorrow-check-timings-trade-settlement-details-12385541.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/02/Stock-770x433.jpg",
+            "publishedAt": "2024-03-01T12:23:07Z",
+            "content": "The National Stock Exchange as well as Bombay Stock Exchange have decided to conduct a special live trading session in the equity and futures &amp; options segments, on March 2, 2024, to check the pr… [+2454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "PTI",
+            "title": "Hyundai sales rise 4.5% at 60,501 units in February - Moneycontrol",
+            "description": "The company sold a total of 57,851 units in February 2023, Hyundai Motor India Ltd (HMIL) said in a statement.",
+            "url": "https://www.moneycontrol.com/news/business/hyundai-sales-rise-4-5-at-60501-units-in-february-12385611.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/Hyundai-770x433.jpg",
+            "publishedAt": "2024-03-01T12:13:50Z",
+            "content": "Hyundai Motor India on Friday said it has reported a 4.5 per cent year-on-year increase in total sales at 60,501 units in February. The company sold a total of 57,851 units in February 2023, Hyundai … [+331 chars]"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Macau Business"
+            },
+            "author": null,
+            "title": "China's manned lunar exploration program in smooth progress: CMSA | - Macau Business",
+            "description": "China, MNA | The China Manned Space Agency (CMSA) said on Thursday that China's manned lunar exploration program is progressing smoothly with Long",
+            "url": "https://www.macaubusiness.com/chinas-manned-lunar-exploration-program-in-smooth-progress-cmsa/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T19:57:42Z",
+            "content": "The China Manned Space Agency (CMSA) said on Thursday that China’s manned lunar exploration program is progressing smoothly with Long March-10 rocket, manned spacecraft Mengzhou, the lunar lander Lan… [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Education Diary"
+            },
+            "author": "iednewsdesk",
+            "title": "Scientists Make Strides in Understanding Universe's Mysteries Through Quantum Gravity Measurement - India Education Diary",
+            "description": "Scientists are a step closer to unravelling the mysterious forces of the universe after working out how to measure gravity on a microscopic level.Experts have never fully understood how the force which was discovered by Isaac Newton works in the tiny",
+            "url": "https://indiaeducationdiary.in/scientists-make-strides-in-understanding-universes-mysteries-through-quantum-gravity-measurement/",
+            "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/02/Quantum-gravity.jpg",
+            "publishedAt": "2024-02-29T16:41:59Z",
+            "content": "Scientists are a step closer to unravelling the mysterious forces of the universe after working out how to measure gravity on a microscopic level.\r\nExperts have never fully understood how the force w… [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Devdiscourse"
+            },
+            "author": "Devdiscourse News Desk",
+            "title": "SpaceX sends 23 Starlink satellites to orbit from Florida - Devdiscourse",
+            "description": "Read more about SpaceX sends 23 Starlink satellites to orbit from Florida on Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/technology/2844987-spacex-sends-23-starlink-satellites-to-orbit-from-florida",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_02_2023_10_33_43_09215.jfif?width=920&format=jpeg",
+            "publishedAt": "2024-02-29T16:15:46Z",
+            "content": "SpaceX has added 23 more satellites to the Starlink constellation in the low-Earth Orbit. On Thursday, a Falcon 9 rocket carrying the new batch of internet satellites lifted off at 10:30 a.m. ET, fro… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zoom"
+            },
+            "author": "TN Tech Desk",
+            "title": "NASA's DART Collision Reshapes Asteroid, Dimorphos' Rubble-Pile Structure Discovered - Times Now",
+            "description": "The latest report suggests that NASA’s DART mission has changed the surface of the asteroid. Here is how.",
+            "url": "https://www.timesnownews.com/technology-science/nasas-dart-collision-reshapes-asteroid-dimorphos-rubble-pile-structure-discovered-article-108112474",
+            "urlToImage": "https://static.tnn.in/thumb/msid-108112764,thumbsize-45926,width-1280,height-720,resizemode-75/108112764.jpg",
+            "publishedAt": "2024-02-29T14:01:55Z",
+            "content": "ViewSonic PX749-4K Projector Launched At Rs 2,90,000 In India - Features, Availability"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Space trash lasers, explained - Vox",
+            "description": "Space debris is a huge problem, but we can fix it.Subscribe to our channel! http://goo.gl/0bsAjOHumans are filling the space around Earth with trash. Most of...",
+            "url": "https://www.youtube.com/watch?v=VQKpMmBDtZo",
+            "urlToImage": "https://i.ytimg.com/vi/VQKpMmBDtZo/maxresdefault.jpg",
+            "publishedAt": "2024-02-29T13:00:24Z",
+            "content": null
+        }
+    ]
+}

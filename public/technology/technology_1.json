@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Meta Rebuffs Google's Virtual Reality Tie-Up Proposal: Report - NDTV",
+            "description": "Meta Platforms decided against a partnership with Alphabet to use Google's Android XR platform for its virtual and mixed-reality Quest headsets, The Information reported on Friday.",
+            "url": "https://www.ndtv.com/world-news/meta-rebuffs-googles-virtual-reality-tie-up-proposal-report-5158827",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/olcmgkkg_google-meta-generic-reuters_625x300_01_March_24.jpeg?ver-20240117.07",
+            "publishedAt": "2024-03-01T17:33:14Z",
+            "content": "Meta is talking to hardware companies about building new VR devices, said the report (Representational)\r\nMeta Platforms decided against a partnership with Alphabet to use Google's Android XR platform… [+1076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Barcelona Mobile World Congress | NDTV's Top Picks From MWC 2024 - NDTV",
+            "description": "At the Mobile World Congress in Barcelona, the world of the connectivity industry has been buzzing with new products, launches, and technology. Here's a quic...",
+            "url": "https://www.youtube.com/watch?v=1P5fRWrw74c",
+            "urlToImage": "https://i.ytimg.com/vi/1P5fRWrw74c/maxresdefault.jpg",
+            "publishedAt": "2024-03-01T15:48:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Affiliate Desk",
+            "title": "Best Sony car speakers: Enjoy your favourite music during the drives | Mint - Mint",
+            "description": "Sony car speakers offer clear and well-balanced audio, bringing your favorite music to life during your drives. Sony is a well-known brand for its wide range of high-quality car speakers. Here's a list of 10 Sony car speakers and subwoofers to help you choose…",
+            "url": "https://www.livemint.com/technology/gadgets/best-sony-car-speakers-enjoy-your-favourite-music-during-the-drives-11709299230703.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/james-penner-yhQNPnzIKm8-unsplash_1709302359008_1709302369377.jpg",
+            "publishedAt": "2024-03-01T15:28:30Z",
+            "content": "Craving an immersive driving experience where your favourite music comes alive? Look no further than the diverse lineup of Sony car speakers! You may be a bass-loving enthusiast, a clarity-seeking au… [+15037 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Tech Desk",
+            "title": "Apple on why many agencies are worried about EU rules for iPhones coming into effect from March 7 - The Times of India",
+            "description": "Read about the concerns raised by agencies regarding the EU rules for iPhones coming into effect from March 7. Find out why many agencies are worried about the changes and how it could impact the market for apps.",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/apples-eu-rules-for-iphones-concerns-raised-by-agencies/articleshow/108144868.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108144820,width-1070,height-580,imgsize-277943,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T15:11:00Z",
+            "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abplive.com"
+            },
+            "author": "ABP News Bureau",
+            "title": "IN PICS | Top 5 Printers For Home And Business In India: Epson, Canon, HP, And More - ABP Live",
+            "description": "HP Deskjet 2331 Colour Printer [Price: Rs 3,799 | Down From MRP: Rs 4,971]: The HP Deskjet 2331 is an efficient all-in-one solution for home or small office use, offering a compact design and reliable performance. Setup is easy with the HP Smart App for conve…",
+            "url": "https://news.abplive.com/photo-gallery/technology/gadgets-top-printers-sale-discount-lucrative-deals-price-specifications-epson-canon-hp-laserjet-everycom-home-office-business-photo-gallery-1668776",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/03/01/3411615109acd272a8214456635ba0c91709302812911555_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2024-03-01T14:29:02Z",
+            "content": "Top 5 Printers: Printers have become an essential part of our lives be it for printing our children's last-minute projects or for office-related documents. Here's a list of the top 5 printers for you… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Bahuroopi theatre fest tickets now available at Rangayana - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/karnataka/bahuroopi-theatre-fest-tickets-now-available-at-rangayana/article67903653.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T13:57:00Z",
+            "content": null
+        }
+    ]
+}

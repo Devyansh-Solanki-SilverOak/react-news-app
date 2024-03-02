@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Maruti's total sales rise 15% to 1,97,471 units in February - The Times of India",
+            "description": "India Business News: Maruti Suzuki India reported a 15% YoY increase in total wholesales at 1,97,471 units in February 2023, as per MSIL statement. Domestic passenger vehi",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/marutis-total-sales-rise-15-to-197471-units-in-february/articleshow/108138549.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108138203,width-1070,height-580,imgsize-227606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T10:52:00Z",
+            "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "mint",
+            "title": "Drugs regulator plans standards overhaul in India | Mint - Mint",
+            "description": "CDSCO has updated guidelines on biological products such as vaccines, biological, and recombinant DNA products that are in tune with the guidelines from WHO and the regulators in other countries",
+            "url": "https://www.livemint.com/news/india/drugs-regulator-plans-standards-overhaul-in-india-11709283886007.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/2-0-75417059-Chemist-4C--0_1681479879805_1709284010400.jpg",
+            "publishedAt": "2024-03-01T10:45:08Z",
+            "content": "NEW DELHI : New Delhi: With the Indian pharmaceutical industry increasingly coming under the scanner globally, the Central Drugs Standard Control Organisation (CDSCO) is conducting a major exercise f… [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Top Gainers and Losers today on 1 March, 2024: Tata Steel, JSW Steel, Dr Reddys Laboratories, HCL Technologies among most active stocks; Check full list here | Mint - Mint",
+            "description": "Top Gainers and Losers Today : The Sensex gained 1245.05 points, or 1.72, to settle at 72500.3, while the Nifty gained 355.95 points, or 1.62, to close at 21982.8.",
+            "url": "https://www.livemint.com/market/stock-market-news/top-gainers-and-losers-today-on-1-march-2024-tata-steel-jsw-steel-dr-reddys-laboratories-hcl-technologies-among-most-active-stocks-check-full-list-here-11709289200071.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/20/1600x900/Top_Gainer_Loser_1695188517120_1695188522963.webp",
+            "publishedAt": "2024-03-01T10:33:19Z",
+            "content": "The Nifty closed at 21982.8, up by 1.62% today. Throughout the day, the Nifty reached a high of 22353.3 and a low of 22047.75. On the other hand, the Sensex traded between 73819.21 and 72591.14, clos… [+3999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Elon Musk Sues OpenAI, CEO Sam Altman Over Alleged Breach Of Contract - NDTV",
+            "description": "Elon Musk has sued OpenAI and its chief executive Sam Altman, among others, accusing them of breaching contractual agreements made when he helped found the ChatGPT-maker in 2015, according to a lawsuit filed on Thursday in San Francisco.",
+            "url": "https://www.ndtv.com/world-news/elon-musk-sues-openai-ceo-sam-altman-for-breach-of-contract-5156327",
+            "urlToImage": "https://c.ndtvimg.com/2024-02/frr9q5p_elon-musk-reuters_625x300_02_February_24.jpeg",
+            "publishedAt": "2024-03-01T10:30:04Z",
+            "content": "Elon Musk co-founded OpenAI in 2015, but stepped down from the company's board in 2018. (File)\r\nElon Musk has sued OpenAI and its chief executive Sam Altman, among others, accusing them of breaching … [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Dhanya Nagasundaram",
+            "title": "Stock market today: Sensex ends over 1,000 points higher, Nifty 50 settles above 22,300-mark led by metal, bank stocks | Mint - Mint",
+            "description": "Stock market today: Domestic equity indices Sensex and Nifty 50 closed higher on Friday, driven by positive global cues, strong GDP figures, and rally in metals and OMC stocks.",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-ends-over-1-000-points-higher-nifty-50-settles-above-22-300-mark-led-by-metal-bank-stocks-11709285997112.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/2-0-1402373409-bse--1---1--0_1679756950206_1709286045612.jpg",
+            "publishedAt": "2024-03-01T10:00:20Z",
+            "content": "Stock market today: Domestic equity benchmark indices, the Sensex and Nifty 50, finished Friday's trading session higher for the third consecutive session due to positive global cues, strong GDP figu… [+5260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Asit Manohar",
+            "title": "EV charger stock Servotech Power Systems near life-time high after receiving IOC order. Details here | Mint - Mint",
+            "description": "Stock market today: Servotech Power Systems has informed Indian exchanges about bagging IOC order worth  ₹111 crore.",
+            "url": "https://www.livemint.com/market/stock-market-news/ev-charger-stock-servotech-power-systems-near-life-time-high-after-receiving-ioc-order-details-here-11709286360476.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/Stock_market_today_Servotech_Power_Systems_share_1709286484170_1709286484346.jpg",
+            "publishedAt": "2024-03-01T09:58:39Z",
+            "content": "Stock market today: EV charging solution company Servotech Power Systems Ltd has been hitting headlines for receiving orders from oil PSUs these days. After receiving around 102 crore order from Hind… [+3004 chars]"
+        }
+    ]
+}

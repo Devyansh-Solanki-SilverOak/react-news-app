@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Physical Fitness: Exercise To Ease Body Pain | The Morning Brief - Channels Television",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=MuiAFZdzTlw",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T17:49:25Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Medical Feed: Smelling Away Diseases, Gossip is Healthy & more...| March 1, 2024 | News 19 at 9 a.m. - WHNT News 19",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=ZxVkGs6EWu4",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T17:45:44Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Increasing obesity among children a cause for concern: NCDPA - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/kerala/increasing-obesity-among-children-a-cause-for-concern-ncdpa/article67904845.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T17:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Health Organization"
+            },
+            "author": null,
+            "title": "World TB Day 2024: Online Talk Show - World Health Organization (WHO)",
+            "description": "The World Health Organization (WHO) is organizing a special Talk Show to commemorate World TB Day on 19 March 2024 at 14:30 CET. The spotlight this year, under the theme 'Yes! We can end TB!' - conveys a message of hope - that getting back-on-track to turn th…",
+            "url": "https://www.who.int/news-room/events/detail/2024/03/19/default-calendar/world-tb-day-2024-online-talk-show",
+            "urlToImage": "https://cdn.who.int/media/images/default-source/tuberculosis/events/world-tb-day-2024-online-talk-show.tmb-1200v.png?sfvrsn=1c61ed59_1",
+            "publishedAt": "2024-03-01T17:28:45Z",
+            "content": "The World Health Organization (WHO) is organizing a special Talk Show to commemorate World TB Day on 19 March 2024 at 14:30 CET. \r\nThe spotlight this year, under the theme 'Yes! We can end TB!' - con… [+1170 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Aadya+Jha",
+            "title": "7 best ways to consume Tulsi leaves on an empty stomach - The Times of India",
+            "description": "Tulsi leaves are not just leaves; they are nature's remedy for a healthier, happier you. Embrace their goodness and let them guide you on a journey to wellness every morning!",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/7-best-ways-to-consume-tulsi-leaves-on-an-empty-stomach/photostory/108140276.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108140297,imgsize-1180635,width-900,height-1200,resizemode-6/108140297.jpg",
+            "publishedAt": "2024-03-01T16:31:00Z",
+            "content": "Instead of popping pills, chew on soft Tulsi leaves directly on an empty stomach. These leaves are packed with anti-inflammatory, antidepressant, and antioxidant properties. By munching on them, you … [+83 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Vicky Pathare",
+            "title": "Lukewarm response to tender defers cervical cancer vaccination in Pune schools - Hindustan Times",
+            "description": "The tender to supply vaccines was floated on January 31 with February 7 deadline. However, as only one bidder showed interest, the process was cancelled, says official",
+            "url": "https://www.hindustantimes.com/cities/pune-news/lukewarm-response-to-tender-defers-cervical-cancer-vaccination-in-pune-schools-101709310449136.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/Cervical-cancer-is-the-fourth-most-common-cancer-i_1709310429414.jpg",
+            "publishedAt": "2024-03-01T16:27:28Z",
+            "content": "The Pune Municipal Corporations (PMC) health department undertook the initiative to consider vaccinating adolescent girls against cervical cancer before the Union health ministry. However, lukewarm r… [+2027 chars]"
+        }
+    ]
+}

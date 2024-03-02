@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Varda Space capsule returns to Earth in amazing eight-minute time-lapse - VideoFromSpace",
+            "description": "Varda Space Industries' W-1 mission landed in northern Utah this on Feb 21, 2024. Watch the re-entry, parachute deploy and landing in this time-lapse that co...",
+            "url": "https://www.youtube.com/watch?v=6-YgqmsKCs8",
+            "urlToImage": "https://i.ytimg.com/vi/6-YgqmsKCs8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPygbMA8=&rs=AOn4CLCDM089yWGL3DXKQVAAQuJIjtGQQQ",
+            "publishedAt": "2024-03-01T12:30:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "New York University researchers have a theory on how humans lost their tails - Moneycontrol",
+            "description": "The research marks a significant leap in understanding the disappearance of tails among early humans and non-tailed apes.",
+            "url": "https://www.moneycontrol.com/news/trends/new-york-university-researchers-have-a-theory-on-how-humans-lost-their-tails-12385581.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/WhatsApp-Image-2024-03-01-at-5.51.31-PM-770x433.jpeg",
+            "publishedAt": "2024-03-01T12:23:07Z",
+            "content": "Researchers from New York University Langone Health have peeled back the layers of time, uncovering the pivotal moment in human evolution when our ancestors bid farewell to tails. The study, led by t… [+2355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "Celestial events in March 2024: From Lunar Eclipse to Equinox, list of upcoming skywatching events - HT Tech",
+            "description": "Discover celestial events in March 2024! Stargazers in the Northern hemisphere can witness rare events like Super New Moon, Lunar Eclipse, March Equinox and more.",
+            "url": "https://tech.hindustantimes.com/photos/celestial-events-in-march-2024-from-lunar-eclipse-to-equinox-list-of-upcoming-skywatching-events-71709293816178.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/Celestial_events_1709293955164_1709293955397.JPG",
+            "publishedAt": "2024-03-01T11:59:34Z",
+            "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Education Diary"
+            },
+            "author": "iednewsdesk",
+            "title": "Planetary Systems Shaped by Radiation from Massive Stars, Study Shows - India Education Diary",
+            "description": "This unprecedented observation, published in the Science and featured on its cover, provides a crucial clue to understanding the diverse and puzzling worlds beyond our solar system.For decades, astronomers have known that the powerful light emitted b",
+            "url": "https://indiaeducationdiary.in/planetary-systems-shaped-by-radiation-from-massive-stars-study-shows/",
+            "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/JWST-640.jpg",
+            "publishedAt": "2024-03-01T11:37:37Z",
+            "content": "This unprecedented observation, published in the Science and featured on its cover, provides a crucial clue to understanding the diverse and puzzling worlds beyond our solar system.\r\nFor decades, ast… [+2515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": null,
+            "title": "Scientists try to resurrect almost extinct, millions of years-old tree, by replanting in secret locations - WION",
+            "description": "Scientists as per reports are planning to plant \"living fossils\" of Wollemi pines, an around145 million old tree that is believed to have gone extinct in 1994. Where will these living fossils be planted? Well, that's a secret.\n\nWhy does the tree matter?\n\nThe …",
+            "url": "https://www.wionews.com/world/scientists-try-to-resurrect-almost-extinct-millions-of-years-old-tree-by-replanting-in-secret-locations-695571",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/01/415552-new-wion-19.jpg",
+            "publishedAt": "2024-03-01T11:35:37Z",
+            "content": "Scientists as per reports are planning to plant \"living fossils\" of Wollemi pines, an around145 million old tree that is believed to have gone extinct in 1994. Where will these living fossils be plan… [+3221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today Science Desk",
+            "title": "Japan's Slim mission shuts down again as Moon goes dark - India Today",
+            "description": "Before entering its latest dormant state SLIM managed to send back a final image of the moon039s surface adding to the wealth of information gathered during its operational periods",
+            "url": "https://www.indiatoday.in/science/story/japans-slim-mission-shuts-down-again-as-moon-goes-dark-2509183-2024-03-01",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/slim-spacecraft-254149399-16x9.jpg?VersionId=c.nZSH8tNaOQqEq4WdK_SDTcQrVWbv9S",
+            "publishedAt": "2024-03-01T11:28:07Z",
+            "content": "Japan's ambitious lunar explorer, the Smart Lander for Investigating Moon (Slim), has once again entered sleep mode as the sun set over Shiori Crater on the Moon on Friday. \r\nThis marks another signi… [+1388 chars]"
+        }
+    ]
+}

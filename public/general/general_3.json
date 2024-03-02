@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Puja Das",
+            "title": "India to set up international big cat alliance | Mint - Mint",
+            "description": "Cabinet clears plan for International Big Cat Alliance, along the lines of the international solar alliance",
+            "url": "https://www.livemint.com/news/india/india-to-set-up-international-big-cat-alliance-11709297311177.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/PTI09-29-2021-000140A-0_1636820779182_1709297398872.jpg",
+            "publishedAt": "2024-03-01T13:56:30Z",
+            "content": "New Delhi: The Union environment ministry is planning to set up and coordinate an International Big Cat Alliance (IBCA), along the lines of the International Solar Alliance, an India-headquartered in… [+3173 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "With ‘count as you go’ policy, PM-JANMAN Yojana falters - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/with-count-as-you-go-policy-pm-janman-yojana-falters/article67903476.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T13:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "ANI",
+            "title": "CM Sukhwinder Sukhu will continue for 5 years, says Shivakumar; 'can't say', replies Congress HP chief Pratibha Singh - Mint",
+            "description": "Himachal Pradesh political crisis: There is more trouble on the horizon for the Congress in Himachal Pradesh as the party's state chief Pratibha Singh says she has spent her entire life in the party but cannot say what will happen tomorrow.",
+            "url": "https://www.livemint.com/politics/news/himachal-pradesh-political-crisis-congress-chief-pratibha-singh-cm-sukhu-dk-shivakumar-bjp-11709293064848.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/Himachal_PRadesh_crisis_1709294017273_1709294017542.jpg",
+            "publishedAt": "2024-03-01T13:42:33Z",
+            "content": "Amid the ongoing political crisis in Himachal Pradesh, state Congress president Pratibha Singh on Friday undermined party observer DK Shivakumar's statement about Chief Minister Sukhvinder Singh Sukh… [+3194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Rishabh Suri",
+            "title": "Karan Johar- Sidharth Malhotra's Yodha trailer flies high with a unique launch - Hindustan Times",
+            "description": "HT City was part of a unique trailer launch for Sidharth Malhotra, Disha Patani and Rashi Khanna's next film Yodha.",
+            "url": "https://www.hindustantimes.com/htcity/cinema/karan-johar-sidharth-malhotras-yodha-trailer-flies-high-with-a-unique-launch-at-32-000-feet-101709299996785.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/yodhsa_1709300386236_1709300398863.jpg",
+            "publishedAt": "2024-03-01T13:42:00Z",
+            "content": "Up above the world so high- 37,000 feet to be precise! The team of the upcoming actioner Yodha came together for one-of-it's-kind trailer launch, for which they decided to fly down a team of select m… [+2303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "Paytm Payments Bank fined ₹5.49 crore for money laundering - Hindustan Times",
+            "description": "Financial Intelligence Unit on Friday imposed ₹5.49 crore penalty on Paytm Payments Bank for money laundering",
+            "url": "https://www.hindustantimes.com/business/paytm-payments-bank-fined-rs-5-49-crore-for-money-laundering-says-finance-ministry-report-101709300022365.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/vijay_shekhar_sharma_1709300304163_1709300304387.jpg",
+            "publishedAt": "2024-03-01T13:35:35Z",
+            "content": "Financial Intelligence Unit on Friday imposed 5.49 crore penalty on Paytm Payments Bank for money laundering, PTI quoted the ministry of finance as saying. The action is a fresh blow to the lender af… [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "BCCI source says Ishan Kishan, Shreyas Iyer will be awarded central contract if… - Hindustan Times",
+            "description": "A BCCI source explained how Ishan Kishan and Shreyas Iyer can their central contracts back. They were not among the 30 awarded contracts for the 2023-24 season. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/bcci-source-says-ishan-kishan-shreyas-iyer-will-be-awarded-central-contracts-if-101709292144898.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/Screenshot_2024-03-01_165519_1709292327276_1709292339608.png",
+            "publishedAt": "2024-03-01T11:35:50Z",
+            "content": "Ishan Kishan and Shreyas Iyer will have to return to the drawing board. Their journey back into the Indian side won't be an easy one. But it's not impossible by any means. Losing out on a central con… [+3526 chars]"
+        }
+    ]
+}

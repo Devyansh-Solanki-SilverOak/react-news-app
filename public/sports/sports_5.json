@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "\"Bit Surprised\": Ex-India Opener On Star's Exclusion From BCCI Central Contracts - NDTV Sports",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvYml0LXN1cnByaXNlZC1leC1pbmRpYS1vcGVuZXItb24tc3RhcnMtZXhjbHVzaW9uLWZyb20tYmNjaS1jZW50cmFsLWNvbnRyYWN0cy01MTQ5OTA00gEA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2024-03-01T07:46:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "'Dhruv Jurel has talent, but...': Sourav Ganguly on the youngster's comparison to MS Dhoni - The Times of India",
+            "description": "Cricket News: Sourav Ganguly acknowledges Dhruv Jurel's talent while urging caution against premature comparisons to MS Dhoni. Read more about it here.",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/england-in-india/sourav-ganguly-cautions-against-premature-comparisons-of-dhruv-jurel-to-ms-dhoni/articleshow/108131698.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108131884,width-1070,height-580,imgsize-35464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T07:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndiaCSR"
+            },
+            "author": "India CSR",
+            "title": "IPL 2024 Chennai Super Kings (CSK) Players List and Squad - IndiaCSR",
+            "description": "IPL 2024: The Chennai Super Kings (CSK) have revealed their squad for the Indian Premier League (IPL) 2024, which is",
+            "url": "https://indiacsr.in/ipl-chennai-super-kings-csk-players-list-squad/",
+            "urlToImage": "https://indiacsr.in/wp-content/uploads/2024/02/Chennai-Super-Kings.jpg",
+            "publishedAt": "2024-03-01T07:26:58Z",
+            "content": "IPL 2024: The Chennai Super Kings (CSK) have revealed their squad for the Indian Premier League (IPL) 2024, which is scheduled to start from April 1. The three-time champions have retained their core… [+7245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Watch: Pakistan unearths new mystery spinner in PSL, whose Ashwin-like pause and carrom balls fox batters with subtle spin - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/sports/cricket/watch-pakistan-unearths-new-mystery-spinner-in-psl-whose-ashwin-like-pause-and-carrom-balls-fox-batters-with-subtle-spin-9189696/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T07:23:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livelaw.in"
+            },
+            "author": "Nupur Thapliyal",
+            "title": "Bajrang Punia, Vinesh Phogat, Other Wrestlers Move Delhi High Court Against WFI Circular To Conduct... - Live Law - Indian Legal News",
+            "description": "Wrestlers Bajrang Punia, Vinesh Phogat, Sakshi Malik and Satyawrat Kadiyan have moved the Delhi High Court against a circular of the Wrestling Federation of India (WFI) to conduct selection trials...",
+            "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-bajrang-punia-vinesh-phogat-wrestlers-wfi-circular-selection-trials-250941",
+            "urlToImage": "https://www.livelaw.in/h-upload/2023/07/20/482076-bajrang-punia-vinesh-phogat-delhi-high-court.jpg",
+            "publishedAt": "2024-03-01T07:21:13Z",
+            "content": "Wrestlers Bajrang Punia, Vinesh Phogat, Sakshi Malik and Satyawrat Kadiyan have moved the Delhi High Court against a circular of the Wrestling Federation of India (WFI) to conduct selection trials fo… [+2204 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "Shashank Kishore",
+            "title": "Tamil Nadu, Mumbai and a mouth-watering Ranji Trophy semi-final - ESPNcricinfo",
+            "description": "It is a clash between the two in-form teams of the tournament and that means there is plenty to look forward to",
+            "url": "https://www.espncricinfo.com/story/ranji-trophy-2023-24-tamil-nadu-mumbai-and-a-mouth-watering-semi-final-1423153",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/375700/375713.6.jpg",
+            "publishedAt": "2024-03-01T07:13:15Z",
+            "content": "FeatureIt is a clash between the two in-form teams of the tournament and that means there is plenty to look forward to"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 50,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Salman Khan couldn’t nail a dance step even after 15 takes, refused to accept choreographer’s ‘okay’: ‘Even if it needs 100 takes…’ - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-couldnt-nail-dance-step-15-takes-refused-to-accept-choreographer-okay-9189482/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T04:32:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Katrina Kaif says her role in Ranbir Kapoor-Deepika Padukone’s Bachna Ae Haseeno was cut: ‘I was the fourth girl’ - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/entertainment/bollywood/katrina-kaif-role-in-ranbir-kapoor-deepika-padukone-bachna-ae-haseeno-was-cut-fourth-girl-9189484/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T04:30:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Rajinikanth flies economy; Jiiva shares fan-boy pictures from the airport - Hindustan Times",
+            "description": "Fans took to X to share videos of Rajinikanth flying economy, and actor Jiiva was thrilled to bump into him at the airport.",
+            "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/rajinikanth-flies-economy-jiiva-shares-fan-boy-pictures-from-the-airport-101709262515082.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/Rajinikanth_economy_1709264796798_1709264812593.jpg",
+            "publishedAt": "2024-03-01T03:59:33Z",
+            "content": "Superstar Rajinikanth was recently spotted flying economy from Kadapa in Andhra Pradesh. Fans were thrilled to see the actor in an IndiGo flight with some even making conversation with him. Actor Jii… [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Chirag Sehgal",
+            "title": "Shark Tank India 3: Amit Jain Taunts Aman Gupta With SHOCKING Comment, Says 'Apne Boat Pe Break Lagao' - News18",
+            "description": "In the recent episode of Shark Tank India 3, Amit Jain and Aman Gupta hurled taunts at each other.",
+            "url": "https://www.news18.com/movies/shark-tank-india-3-amit-jain-taunts-aman-gupta-with-shocking-comment-says-apne-boat-pe-break-lagao-8798511.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/aman-gupta-new-2024-03-5394ac84431dff73dd0b49f46bcdd7bb-16x9.jpg?impolicy=website&width=1200&height=675",
+            "publishedAt": "2024-03-01T02:08:00Z",
+            "content": "In the recent episode of Shark Tank India, pitchers Shreya Bansal and Prateek Kedia were seen introducing their yoga mat brand. They claimed that their mats were eco and pocket-friendly. The pitchers… [+1823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Karishma Pranav Bhavsar",
+            "title": "From Laapataa Ladies to Dune 2; list of movie releases this week | Mint - Mint",
+            "description": "New releases in theatres this week include Kiran Rao's 'Laapataa Ladies' starring Nitanshi Goel, Pratibha Ranta, Sparsh Shrivastava and Ravi Kishan, along with 'Dune 2' and 'Kaagaz 2'.",
+            "url": "https://www.livemint.com/news/trends/from-laapataa-ladies-to-dune-2-list-of-movie-releases-this-week-11709256954527.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/Laapataa-Ladies-will-be-co-produced-by-Aamir-Khan-_1695101852114_1709257448407.png",
+            "publishedAt": "2024-03-01T01:45:40Z",
+            "content": "As the weekend nears, one delightful way to bond with family and friends is by catching some of the latest releases at nearby theatres. This week, Kiran Rao directed Laapataa Ladies starring Nitanshi… [+4342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Odishatv.in"
+            },
+            "author": "Deepak Acharya",
+            "title": "Daily Horoscope for March 1, 2024: Fruitful day for Aries; new opportunities on cards for Taurus - OTV News",
+            "description": "Daily Horoscope for March 1, 2024: Fruitful day for Aries; new opportunities on cards for Taurus",
+            "url": "https://odishatv.in/astrospeak/daily-horoscope-mar-01-2024-fruitful-day-for-aries-new-opportunities-on-cards-for-taurus-228993",
+            "urlToImage": "https://images.odishatv.in/uploadimage/library/16_9/16_9_0/recent_photo_1707393541.jpg",
+            "publishedAt": "2024-03-01T01:13:35Z",
+            "content": "Zodiac signs play a crucial role in almost all aspects of our life. Every sign has its own set of characteristics. So, if you are eager to know about your wealth, health and financial issues, read th… [+44 chars]"
+        }
+    ]
+}

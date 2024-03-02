@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": null,
+            "title": "Lukewarm response to tender defers cervical cancer vaccination in Pune schools - Hindustan Times",
+            "description": null,
+            "url": "https://www.hindustantimes.com/cities/pune-news/lukewarm-response-to-tender-defers-cervical-cancer-vaccination-in-pune-schools-101709310449136.html",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T16:27:28Z",
+            "content": "Description: Group Number: Group Name: Ip Address: Username: Computer Name:"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Greatandhra.com"
+            },
+            "author": "Venkat Arikatla",
+            "title": "Chaari 111 Review: Zero Bond.. - Greatandhra",
+            "description": "Vennela Kishore is a very prominent comedian in the Telugu cinema industry.",
+            "url": "https://www.greatandhra.com/movies/reviews/chaari-111-review-zero-bond-136095",
+            "urlToImage": "https://www.greatandhra.com/newphotos10/chari111_11709308662.jpg",
+            "publishedAt": "2024-03-01T15:57:42Z",
+            "content": "Movie: Chaari 111Rating: 1.75/5Banner: Barkat StudiosCast: Vennela Kishore, Murali Sharma, Samyuktha Viswanathan, Satya, Taguboth Ramesh, Rahul Ravindran, Subhalekha Sudhakar and othersMusic: Simon K… [+3659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Barcelona Mobile World Congress | NDTV's Top Picks From MWC 2024 - NDTV",
+            "description": "At the Mobile World Congress in Barcelona, the world of the connectivity industry has been buzzing with new products, launches, and technology. Here's a quic...",
+            "url": "https://www.youtube.com/watch?v=1P5fRWrw74c",
+            "urlToImage": "https://i.ytimg.com/vi/1P5fRWrw74c/maxresdefault.jpg",
+            "publishedAt": "2024-03-01T15:48:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Sportstar",
+            "title": "PKL Final Live Score: Puneri Paltan leads, Shadloui eyeing century of tackle points - Sportstar",
+            "description": null,
+            "url": "https://sportstar.thehindu.com/kabaddi/pkl-season-10-final-live-score-puneri-paltan-vs-haryana-steelers-updates-commentary-winner-results-highlights-best-moments-raids-tackles/article67903946.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T15:33:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Mohammad Haris",
+            "title": "India's Manufacturing Sector Growth Hits 5-Month High in February on Robust Demand - News18",
+            "description": "The seasonally adjusted HSBC India Manufacturing Purchasing Managers' Index (PMI) rose from 56.5 in January to 56.9 in February, pointing to the strongest improvement in the health of the sector since September 2023",
+            "url": "https://www.news18.com/business/indias-manufacturing-sector-growth-hits-5-month-high-in-february-on-robust-demand-8798873.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/09/electronics-169502133416x9.jpg",
+            "publishedAt": "2024-03-01T15:32:09Z",
+            "content": "Indias manufacturing sector growth climbed to a five-month high in February amid a sharper uptick in factory production and sales, supported by both domestic and external demand, a monthly survey sai… [+2348 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Entertainment Desk",
+            "title": "Ranveer Singh and Deepika Padukone can't take their eyes off each other as they stun in black and white a - TOI Etimes",
+            "description": "Check out the stunning photos of Ranveer Singh and Deepika Padukone as they stun in black and white outfits at Anant Ambani and Radhika Merchant's pre-wedding celebrations. The much-in-love couple recently announced the news of their first child together.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-deepika-padukone-cant-take-their-eyes-off-each-other-as-they-stun-in-black-and-white-at-anant-ambani-and-radhika-merchants-pre-wedding-celebrations-see-photos/articleshow/108145056.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108145056,width-1070,height-580,imgsize-44028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T15:23:00Z",
+            "content": null
+        }
+    ]
+}

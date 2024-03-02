@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "WION Desk",
+            "title": "5 Health Benefits Of Khus Khus - WION",
+            "description": "5 Health Benefits Of Khus Khus",
+            "url": "https://www.wionews.com/web-stories/life-fun/health-and-wellness/5-health-benefits-of-khus-khus--1709271842193",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T05:56:02Z",
+            "content": "Khus khus seeds are packed with nutrients such as dietary fibre, protein, healthy fats, vitamins (especially B-complex vitamins), and minerals (including calcium, magnesium, and phosphorus)."
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "IISc studies explore how attention and eye movements are linked closely - The Times of India",
+            "description": "Science News: Two new studies from the Centre for Neuroscience at the Indian Institute of Science explore how attention and eye movements are closely linked. Discover the fascinating findings!",
+            "url": "https://timesofindia.indiatimes.com/home/science/iisc-studies-unveil-link-between-attention-and-eye-movements/articleshow/108127295.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108127388,width-1070,height-580,imgsize-20216,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T05:30:00Z",
+            "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>IISc studies explore how attention and eye movements are linked closely</li></ul>\r\nFOLLOW US ON SOCIAL MEDIA"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Verify | Fact-checking the benefits of taking a cold shower - WCNC",
+            "description": "Cold showers and cold plunges are all the rage this year. Everyone from athletes to the average Joe is turning the faucet from hot to cold in hopes that it w...",
+            "url": "https://www.youtube.com/watch?v=GbyLNpuym7k",
+            "urlToImage": "https://i.ytimg.com/vi/GbyLNpuym7k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDMgWSh_MA8=&rs=AOn4CLDo-wm6pjnq95yLn_lC_3TjqFHY7w",
+            "publishedAt": "2024-03-01T04:08:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Norovirus outbreak in the US: Know all about the contagious stomach flu - The Times of India",
+            "description": "​Norovirus cases are rising in the US, the Centers for Disease Control and Prevention has said. According to the most recent CDC data, more than 12% of tests for the virus was found to be positive in the week ending on Feb. 17. The week before that a little m…",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/norovirus-outbreak-in-the-us-know-all-about-the-contagious-stomach-flu/photostory/108122076.cms",
+            "urlToImage": "https://static.toiimg.com/photo/108122097.cms",
+            "publishedAt": "2024-03-01T02:34:33Z",
+            "content": "Norovirus, also known as the \"stomach bug,\" is a highly contagious virus that causes gastroenteritis, inflammation of the stomach and intestines. It is the most common cause of acute gastroenteritis … [+445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Swati Chaturvedi, Lifestyle Desk",
+            "title": "5 Foods That Can Fulfill The Requirement Of Protein In Your Body - News18",
+            "description": "Incorporating these plant-based sources of complete protein into your diet can help meet your nutritional needs while offering a variety of delicious and healthful meal options",
+            "url": "https://www.news18.com/lifestyle/health-and-fitness-5-foods-that-can-fulfill-the-requirement-of-protein-in-your-body-8796799.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/shutterstock_1998402668-2023-12-206eae7552498dd874f6991175c8e995-16x9.jpg?impolicy=website&width=1200&height=675",
+            "publishedAt": "2024-03-01T01:17:09Z",
+            "content": "Protein is an essential macronutrient crucial for muscle repair, immune function, and overall health. For proper functioning, our body requires 20 amino acids, out of which 9 are essential, meaning o… [+2777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Servier.com"
+            },
+            "author": "Soëlie FRIMON",
+            "title": "Focus on Blue March: Our commitment to patients with colorectal cancer - Servier",
+            "description": "With nearly two million new cases per year, colorectal cancer is the third most frequently diagnosed cancer in the world.",
+            "url": "https://servier.com/en/newsroom/focus-blue-march-commitment-patients-colorectal-cancer/",
+            "urlToImage": "https://servier.com/wp-content/uploads/2024/02/servier-blue-march-colorectal-cancer.png",
+            "publishedAt": "2024-02-29T23:54:52Z",
+            "content": "With nearly two million new cases and 930,000 deaths per year, colorectal cancer is the third most frequently diagnosed cancer in the world, and the second most deadly1. However, early detection and … [+2843 chars]"
+        }
+    ]
+}

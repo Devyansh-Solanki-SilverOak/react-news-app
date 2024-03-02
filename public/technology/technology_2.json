@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "US Groom Sports \"Creepy\" Apple Vision Pro At Wedding, Bride Unimpressed - NDTV",
+            "description": "Jacob Wright, who acquired the headset shortly after its launch, eventually wore it during the reception, even bringing it onto the dance floor.",
+            "url": "https://www.ndtv.com/feature/us-groom-sports-creepy-apple-vision-pro-at-wedding-bride-unimpressed-5157238",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/k0j167k_apple-vision-pro_625x300_01_March_24.jpeg?ver-20240117.07",
+            "publishedAt": "2024-03-01T13:01:34Z",
+            "content": "Jacob infuriated his wife when he sported his Apple Vision Pro headset.\r\nAn American software engineer's decision to wear a high-tech virtual reality headset during his wedding photos has gone viral,… [+1919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.epw.in"
+            },
+            "author": null,
+            "title": "From 25 Years Ago: How Many Aspirins to the Rupee?: Runaway Drug Prices - Economic and Political Weekly",
+            "description": "Vol XXXIV, No 9 FEBRUARY 27, 1999",
+            "url": "https://www.epw.in/journal/2024/9/25-years-ago/25-years-ago-how-many-aspirins-rupee-runaway-drug.html",
+            "urlToImage": "http://www.epw.in/sites/default/files/epw-logo.png",
+            "publishedAt": "2024-03-01T12:34:30Z",
+            "content": "This is an appeal to the subscribers, contributors, advertisers and well-wishers of Economic and Political Weekly (EPW), published by Sameeksha Trust, a public charitable trust registered with the of… [+47 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jio Phone 5G @ 9XXX, Galaxy Fold 6 Ultra, Warzone Mobile Launch, Intel 1nm🫨, 8 Gen 4 Specs-#TTN1553 - Trakin Tech",
+            "description": "Hello, Friends Welcome to Tech News No.1552. Today There Are Lots Of Amazing Tech News Lined Up For You. So Let's Get Started And Don't Forget To Like & Subs...",
+            "url": "https://www.youtube.com/watch?v=r06JsQiTEzE",
+            "urlToImage": "https://i.ytimg.com/vi/r06JsQiTEzE/maxresdefault.jpg",
+            "publishedAt": "2024-03-01T12:30:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Et-edge.com"
+            },
+            "author": "ET Edge Insights",
+            "title": "Microsoft opens public preview of Copilot for Finance - ET Edge Insights - ET Edge Insights",
+            "description": "Microsoft has unveiled the public preview of Microsoft Copilot for Finance. This latest addition to the Copilot suite, tailored for business functions,",
+            "url": "https://etinsights.et-edge.com/microsoft-opens-public-preview-of-copilot-for-finance/",
+            "urlToImage": "https://etinsights.et-edge.com/wp-content/uploads/2024/03/shutterstock_1357496909.jpg",
+            "publishedAt": "2024-03-01T11:49:39Z",
+            "content": "Microsoft has unveiled the public preview of Microsoft Copilot for Finance. This latest addition to the Copilot suite, tailored for business functions, promises to redefine how finance teams approach… [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Realme Narzo 70 Pro 5G to support air gesture and Sony IMX890 sensor - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/sci-tech/technology/gadgets/realme-narzo-70-pro-5g-to-support-air-gesture-and-sony-imx890-sensor/article67903541.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T11:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Yordan",
+            "title": "Tecno AI announced, it's what the next HiOS will be all about - GSMArena.com news - GSMArena.com",
+            "description": "Tecno is also joining the hype train with live translations and smart removal of objects. Tecno introduced a multitude of mobile products at MWC 2024 in...",
+            "url": "https://www.gsmarena.com/tecno_ai_announced_its_what_the_next_hios_will_be_all_about-news-61822.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/tecno-ai-hios-mwc/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2024-03-01T11:31:01Z",
+            "content": "Tecno introduced a multitude of mobile products at MWC 2024 in Barcelona a Pova 6 Pro smartphone, a Windows handheld gaming console with XR glasses, several laptops and even a robot dog.\r\nNow the hyp… [+1786 chars]"
+        }
+    ]
+}

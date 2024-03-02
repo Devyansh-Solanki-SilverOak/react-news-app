@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Dst.gov.in"
+            },
+            "author": null,
+            "title": "Tracking the solar source of the most intense geomagnetic storm last year - Department Of Science & Technology",
+            "description": "The Department of Science & Technology plays a pivotal role in promotion of science & technology in the country.",
+            "url": "https://dst.gov.in/tracking-solar-source-most-intense-geomagnetic-storm-last-year",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T11:22:13Z",
+            "content": "In late-April 2023, a severe geomagnetic storm in Earths magnetosphere led to an vivid display of the aurora in in lower latitudes extending to places like Ladakh. Astronomers have used multiwaveleng… [+4548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aeon.co"
+            },
+            "author": "Moheb Costandi",
+            "title": "The iconic brain map that’s changing neurosurgery and gaming - Aeon",
+            "description": "When we discovered that the brain contained a map of the body it revolutionised neuroscience. But it’s time for an update",
+            "url": "https://aeon.co/essays/the-iconic-brain-map-thats-changing-neurosurgery-and-gaming",
+            "urlToImage": "https://images.aeonmedia.co/images/893b31db-aeeb-40a8-88c1-5a65a4c0b8d5/essay-p083wr1g.jpg?width=1200&quality=75&format=auto",
+            "publishedAt": "2024-03-01T11:04:53Z",
+            "content": "The homunculus is one of the most iconic images in neurology and neuroscience. Usually visualised as a series of disproportionately sized body parts splayed across a section of the brain, it shows ho… [+19487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Education Diary"
+            },
+            "author": "iednewsdesk",
+            "title": "Researchers Discover Viruses That Could Enhance Carbon Capture in the Ocean - India Education Diary",
+            "description": "Armed with a catalog of hundreds of thousands of DNA and RNA virus species in the world’s oceans, scientists are now zeroing in on the viruses most likely to combat climate change by helping trap carbon dioxide in seawater or, using similar technique",
+            "url": "https://indiaeducationdiary.in/researchers-discover-viruses-that-could-enhance-carbon-capture-in-the-ocean/",
+            "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/ohio-1024x683.jpg",
+            "publishedAt": "2024-03-01T10:37:36Z",
+            "content": "Armed with a catalog of hundreds of thousands of DNA and RNA virus species in the worlds oceans, scientists are now zeroing in on the viruses most likely to combat climate change by helping trap carb… [+5284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": null,
+            "title": "Spain prone to deep earthquakes due to Earth`s crust lying upside down under Mediterranean: study - WION",
+            "description": "In a new study, it has been found that Spain has remained prone to rare and deep earthquakes because of a capsized tectonic plate beneath the Earth's surface. \n\nAs per the seismographic reports, when Africa and Eurasia slowly collided, a piece of the surface …",
+            "url": "https://www.wionews.com/science/spain-prone-to-deep-earthquakes-due-to-earths-crust-lying-upside-down-under-mediterranean-study-695550",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/01/415543-untitled-design-22.png",
+            "publishedAt": "2024-03-01T10:35:24Z",
+            "content": "In a new study, it has been found that Spain has remained prone to rare and deep earthquakes because of a capsized tectonic plate beneath the Earth's surface. \r\nAs per the seismographic reports, when… [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Science Desk",
+            "title": "International Space Station’s recurring air leak ‘poses no threat to crew’: Russia - The Indian Express",
+            "description": "Russian space officials says a leak on the International Space Station poses no risk to astronauts on board.",
+            "url": "https://indianexpress.com/article/technology/science/international-space-station-air-leak-russia-9190044/",
+            "urlToImage": "https://images.indianexpress.com/2024/02/ISS-File-photo.jpg",
+            "publishedAt": "2024-03-01T10:04:29Z",
+            "content": "Russian space officials on Wednesday said there is a continuing air leak from the Russian section of the International Space Station (ISS) but said it posed no danger to the crew on the orbiting outp… [+2094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": null,
+            "title": "NASA converts beauty of universe into sound for visually impaired to experience - WION",
+            "description": "A new project, launched by NASA, has been turning the beauty of the universe into sound and giving the visually impaired a chance to experience the hidden wonders of space.\n\nThrough a process known as sonification, NASA has translated data into sound which ge…",
+            "url": "https://www.wionews.com/science/nasa-converts-beauty-of-universe-into-sound-for-visually-impaired-to-experience-695528",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/01/415532-untitled-design-21.png",
+            "publishedAt": "2024-03-01T09:38:11Z",
+            "content": "A new project, launched by NASA, has been turning the beauty of the universe into sound and giving the visually impaired a chance to experience the hidden wonders of space.\r\nThrough a process known a… [+1841 chars]"
+        }
+    ]
+}

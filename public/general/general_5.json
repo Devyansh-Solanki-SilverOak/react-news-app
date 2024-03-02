@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Who is George Galloway? Latest comeback for a political maverick - BBC.com",
+            "description": "The 69-year-old's victory in Rochdale shows he has not lost his appetite for a fight - or his talent for riling his opponents.",
+            "url": "https://www.bbc.com/news/uk-politics-68405486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CBD/production/_132779786_gettyimages-2049683173.jpg",
+            "publishedAt": "2024-03-01T10:31:01Z",
+            "content": "By Brian Wheeler &amp; Jennifer McKiernan BBC political reporters\r\nRarely seen without his trademark hat, George Galloway's eloquence is legendary among supporters and opponents\r\nFew politicians can … [+6176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "'Nothing to say to Navalny's family': Kremlin days after Opposition leader's death | Mint - Mint",
+            "description": "On being asked about late Navalny's significance as political figure, Kremlin said it can't give any assessment.",
+            "url": "https://www.livemint.com/news/world/nothing-to-say-to-navalnys-family-kremlin-days-after-opposition-leaders-death-11709287706702.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/Russia-Navalny-Funeral-2_1709288093593_1709288183692.jpg",
+            "publishedAt": "2024-03-01T10:11:22Z",
+            "content": "Days after Russian opposition leader Alexei Navalny's death, the Kremlin on 1 March said that it has nothing to say to his family, reported Reuters. On being asked about the late Navalny's significan… [+2313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesouthfirst.com"
+            },
+            "author": null,
+            "title": "Cancer cure pills for ₹100 a possibility soon? What do oncologists have to say? - South First",
+            "description": "The tablet, which is the outcome of research and testing, has been the subject of both intrigue and caution within the medical community.",
+            "url": "https://thesouthfirst.com/web-stories/cancer-cure-pills-for-100-a-possibility-soon-what-do-oncologists-have-to-say/",
+            "urlToImage": "https://thesouthfirst.com/wp-content/uploads/2024/03/cropped-Cover_0-03.png",
+            "publishedAt": "2024-03-01T08:37:44Z",
+            "content": "Doctors and researchers at the Tata Memorial Centre in Mumbai have made headlines with their announcement of a breakthrough tablet, costing just 100.\r\nIt is designed to not only prevent the recurrenc… [+1111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apnnews.com"
+            },
+            "author": "APN News",
+            "title": "The Infinix Smart 8 Plus launches at 6,999*, features 6000 mAh battery - APN News",
+            "description": null,
+            "url": "https://www.apnnews.com/the-infinix-smart-8-plus-launches-at-6999-features-6000-mah-battery/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T08:01:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Avishek Banerjee",
+            "title": "PV sales continue on upward trajectory in February - Moneycontrol",
+            "description": "During the first 11 months of this fiscal, passenger carmakers sold 38,59,000 units of sedans, utility vehicles (UVs) and hatchbacks, registering an 8.6 percent increase from 33,53,000 units during the corresponding period last year",
+            "url": "https://www.moneycontrol.com/news/business/pv-sales-continue-on-upward-trajectory-in-february-12378871.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/cars-214033_1280-1-580x435.jpg",
+            "publishedAt": "2024-03-01T07:53:09Z",
+            "content": "Passenger Vehicle (PV) sales continued to move northwards for the second month in a row this year as carmakers have dispatched nearly 373,177 units to their dealers, as per industry data.\r\nAs per ind… [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Vaishnawi Sinha",
+            "title": "Paytm cuts ties with Paytm Payments Bank, ends inter-company pacts - Hindustan Times",
+            "description": "Paytm said in a company filing that it is ending all inter-company pacts with Paytm Payments Bank to reduce dependencies.",
+            "url": "https://www.hindustantimes.com/business/paytm-cuts-ties-with-paytm-payments-bank-ends-inter-company-pacts-after-rbis-crackdown-101709269093373.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/ONE-97-COMMNS-STOCKS--0_1701956947873_1709270077556.JPG",
+            "publishedAt": "2024-03-01T07:50:02Z",
+            "content": "Paytm's parent company One 97 Communications said in a company filing on Friday that the firm's board has decided to discontinue the inter-company pacts with its banking service Paytm Payments Bank t… [+1566 chars]"
+        }
+    ]
+}

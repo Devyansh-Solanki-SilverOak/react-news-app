@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Ashwin Rajagopalan",
+            "title": "5 Cool AI features to try in Samsung Galaxy S24 series - Moneycontrol",
+            "description": "Samsung Galaxy S24 features: Generative Edit to remaster, recompose photos with an AI editing tool; Live Translate for real-time voice and text translations of phone calls; and Note Assist for AI-generated summaries, templates and translation of notes.",
+            "url": "https://www.moneycontrol.com/news/technology/5-cool-ai-features-to-try-in-samsung-galaxy-s24-series-12383331.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/Galaxy-S24-Series_dl1-770x433.png",
+            "publishedAt": "2024-03-01T07:27:19Z",
+            "content": "AI was the key theme in Samsungs first flagship unveil for 2024. The brand launched three S24 devices including the diminutive Galaxy S24, the S24+ and the top-end Samsung Galaxy S24 Ultra. While the… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Samsung Galaxy Ring: First Look at MWC 2024 | Tech Today - India Today",
+            "description": "In this segment Tech Today’s Aayush Ailawadi at the Mobile World Congress in Barcelona, Samsung has taken the tech world by storm with the introduction of it...",
+            "url": "https://www.youtube.com/watch?v=nIfMEZUWDtw",
+            "urlToImage": "https://i.ytimg.com/vi/nIfMEZUWDtw/hqdefault.jpg",
+            "publishedAt": "2024-03-01T06:57:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India TV News"
+            },
+            "author": "Vishal Upadhyay",
+            "title": "Xiaomi and Redmi phones set to receive HyperOS update in India: Full list revealed - India TV News",
+            "description": "Xiaomi and Redmi smartphones in India are getting an update called HyperOS. This update will bring new features and improvements to the devices. Here's a list of all the phones that will receive the HyperOS update.",
+            "url": "https://www.indiatvnews.com/technology/news/xiaomi-and-redmi-phones-set-to-receive-hyperos-update-in-india-2024-03-01-919375",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/03/xiaomi-hyperos-updates-revealed-1709274739.jpg",
+            "publishedAt": "2024-03-01T06:37:01Z",
+            "content": "Xiaomi recently announced the rollout schedule for its new HyperOS software version in global markets, including India. This update will bring Android 14-based skin to various Xiaomi, Redmi, and Redm… [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Divya Bhati",
+            "title": "Google now has an app that will let you take a picture of a math equation and help you solve it - India Today",
+            "description": "Google expands its educational technology portfolio with the acquisition of Photomath an app that provides step-by-step solutions to maths problems by simply taking a picture",
+            "url": "https://www.indiatoday.in/technology/news/story/google-now-has-an-app-that-will-let-you-take-a-picture-of-a-math-equation-and-help-you-solve-it-2509003-2024-03-01",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/photomath-011225957-16x9_0.jpg?VersionId=QcpKOCrSDVQwS3naK706SF0qUO0xPxPl",
+            "publishedAt": "2024-03-01T06:13:24Z",
+            "content": "Struggling with a tricky maths problem? Google has you covered with its new or rather newly acquired Photomath. This is a smart camera calculator and maths assistant app which lets you solve equation… [+2906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "An Exclusive Conversation With The Couple Behind Humane AI - India Today",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=FprtkLGqTPI",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T06:03:56Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zoom"
+            },
+            "author": "Shubham Arora",
+            "title": "Samsung Galaxy F15 5G, Galaxy M14 4G Indian Pricing Tipped Ahead Of Launch - Times Now",
+            "description": "Samsung prepares to launch Galaxy F15 5G and Galaxy M14 4G smartphones in India. Leaked pricing details suggest budget-friendly options.",
+            "url": "https://www.timesnownews.com/technology-science/samsung-galaxy-f15-5g-galaxy-m14-4g-indian-pricing-tipped-ahead-of-launch-article-108125719",
+            "urlToImage": "https://static.tnn.in/thumb/msid-108125802,thumbsize-695799,width-1280,height-720,resizemode-75/108125802.jpg",
+            "publishedAt": "2024-03-01T04:43:51Z",
+            "content": "Surbhi Chandna-Karan Sharma Mehendi Ceremonys Inside Pics Out! Shrenu, Mansi Flaunt Henna On Their Palms"
+        }
+    ]
+}

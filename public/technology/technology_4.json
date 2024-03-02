@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Statesman"
+            },
+            "author": "IANS",
+            "title": "realme 12 Series 5G: A new chapter in value-driven premium smartphones - The Statesman",
+            "description": "“To sweeten the deal, realme is offering limited-time offers worth Rs 3,000+ on the pre-order of the realme 12+ 5G (8GB+128GB),” the company informed.",
+            "url": "https://www.thestatesman.com/technology/realme-12-series-5g-a-new-chapter-in-value-driven-premium-smartphones-1503274657.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2024/03/IMG_5643.jpeg",
+            "publishedAt": "2024-03-01T09:00:00Z",
+            "content": "In a bold move to redefine the mid-premium smartphone segment, realme is set to launch its latest entrants in the number series – the realme 12+ 5G and realme 12 5G. These new additions are poised to… [+2409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Amit Rahi",
+            "title": "Best wall mounted fans to keep yourself cool this summer: Top 9 pick | Mint - Mint",
+            "description": "Explore our top picks for wall-mounted fans with high end specifications and value. Find the perfect fan to keep your space cool and comfortable.",
+            "url": "https://www.livemint.com/technology/gadgets/best-wall-mounted-fans-to-keep-yourself-cool-this-summer-top-9-pick-11709206749023.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/wall_mounted_fan_1709209005917_1709209006761.png",
+            "publishedAt": "2024-03-01T08:25:34Z",
+            "content": "In the realm of home cooling solutions, wall-mounted fans stand out for their ability to efficiently circulate air while saving space in your home. These compact fans are ideal for rooms with limited… [+14317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Divya Bhati",
+            "title": "Adobe has a new generative AI app that is like Photoshop but for music editing - India Today",
+            "description": "Adobe is revolutionising audio creation with its new generative AI tool Project Music GenAI Control This early-stage tool allows users to generate music from simple text descriptions and edit it to their specific needs",
+            "url": "https://www.indiatoday.in/technology/news/story/adobe-has-a-new-generative-ai-app-that-is-like-photoshop-for-music-editing-2509077-2024-03-01",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/project-music-genai-control-014202245-16x9_0.jpg?VersionId=DLW6B1PKpaJIOFzTYeUtlDCSJZYXCujq",
+            "publishedAt": "2024-03-01T08:07:32Z",
+            "content": "Adobe is currently busy developing and releasing a slew of generative AI tools to help users boost creativity and speed up workflows in Adobe products. The company last year introduced Adobe FireFly … [+2883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apnnews.com"
+            },
+            "author": "APN News",
+            "title": "The Infinix Smart 8 Plus launches at 6,999*, features 6000 mAh battery - APN News",
+            "description": null,
+            "url": "https://www.apnnews.com/the-infinix-smart-8-plus-launches-at-6999-features-6000-mah-battery/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T08:01:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Akash Dutta, Siddharth Suvarna",
+            "title": "Oppo Watch X With Snapdragon W5 Gen 1 SoC, 1.43-Inch AMOLED Display Launched: Price, Specifications - Gadgets 360",
+            "description": "Oppo Watch X was launched in Malaysia on Thursday. The smartwatch appears to be the rebranded OnePlus Watch 2, which was unveiled at the Mobile World Congress (MWC) 2024 on February 26. The latest wearable features a 1.43-inch AMOLED display and is powered by…",
+            "url": "https://www.gadgets360.com/wearables/news/oppo-watch-x-price-launch-specifications-features-5155497",
+            "urlToImage": "https://i.gadgets360cdn.com/large/oppo_watch_x_1709278835786.jpg",
+            "publishedAt": "2024-03-01T07:42:53Z",
+            "content": "Oppo Watch X was launched in Malaysia on Thursday. The smartwatch appears to be the rebranded OnePlus Watch 2, which was unveiled at the Mobile World Congress (MWC) 2024 on February 26. The latest we… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Apple: 'Big on AI' | Nikkei @ Record High| Bitcoin Soars | Oscar 2024 | World Business Report - NEWS9 Live",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=qQKPtChPWhE",
+            "urlToImage": null,
+            "publishedAt": "2024-03-01T07:40:32Z",
+            "content": null
+        }
+    ]
+}

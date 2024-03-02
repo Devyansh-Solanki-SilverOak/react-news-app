@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Entrackr"
+            },
+            "author": "Harsh Upadhyay",
+            "title": "Pristyn Care lays off around 120 employees as it targets profitability and IPO - Entrackr",
+            "description": "Pristyn Care has reduced its workforce by 7% as the firm eyes profitability and initial public offering in the next few years.",
+            "url": "https://entrackr.com/2024/03/pristyn-care-lays-off-around-120-employees-as-it-targets-profitability-and-ipo/",
+            "urlToImage": "https://entrackr.com/storage/2023/12/Pristyn-Care-1.png",
+            "publishedAt": "2024-03-01T09:35:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "Zomato hits record high, bucking internet stocks' sluggishness - The Economic Times",
+            "description": "Zomato's shares hit a record high as its profitability improves, making it India's most valuable internet stock. Investor sentiment has reversed, and Zomato dominates the food delivery market. Blinkit, its quick commerce business, is expected to drive further…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/zomato-hits-record-high-bucking-internet-stocks-sluggishness/articleshow/108134488.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-108134509,width-1200,height-630,imgsize-53742,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2024-03-01T08:55:36Z",
+            "content": "BENGALURU - Zomato is the most-valuable internet stock in Asia's third-largest economy, with a market capitalisation of more than 1.51 trillion rupees ($18 billion). On Friday, its shares rose nearly… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tatamotors.com"
+            },
+            "author": null,
+            "title": "Tata Motors registered total sales of 86406 units in February 2024 - Tata Motors",
+            "description": "Tata Motors, a USD 42 billion organization, is a leading global automobile manufacturer of cars, utility vehicles, pick-ups, trucks and buses.",
+            "url": "https://www.tatamotors.com/press-releases/tata-motors-registered-total-sales-of-86406-units-in-february-2024/",
+            "urlToImage": "https://aicl-mum-bucket.s3.ap-south-1.amazonaws.com/Production/www-tatamotors-com-NEW/wp-content/uploads/2024/02/th-sales-1324.jpg",
+            "publishedAt": "2024-03-01T08:54:01Z",
+            "content": "Press release -\r\n March 1, 2024 \r\n<ul><li>Total PV Sales of 51,321 units, 19% YoY</li><li>Total CV Sales of 35,085 units, -4% YoY</li></ul>Tata Motors Limited sales in the domestic &amp; internationa… [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "₹2000 banknote still legal tender, circulation drops to ₹8,470 crore: RBI - Hindustan Times",
+            "description": "The Reserve Bank of India (RBI) had announced the withdrawal of ₹2000 denomination banknotes from circulation on May 19, 2023.",
+            "url": "https://www.hindustantimes.com/business/2000-banknote-still-legal-tender-circulation-drops-to-8-470-crore-rbi-101709280951532.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/01/1600x900/2000_notes_withdrawal_rbi_update_1709281424693_1709281424952.JPG",
+            "publishedAt": "2024-03-01T08:31:49Z",
+            "content": "The Reserve Bank of India (RBI) on Friday disclosed a substantial decrease in the circulation of 2000 denomination banknotes since the announcement of their withdrawal. As per the latest data, the to… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Explained I RBI faces criticism for PPBL action, but here’s what the regulator has done to promote... - Moneycontrol",
+            "description": "In the recent past, the central bank launched a series of initiatives to promote fintech sector in India, including creation of a dedicated fintech department, setting up of an innovation hub, SRO framework for fintechs and the regulatory sandbox.",
+            "url": "https://www.moneycontrol.com/news/business/explained-i-rbi-faces-criticism-for-ppbl-action-but-heres-what-the-regulator-has-done-to-promote-fintechs-12382891.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/mc-explain-770x433.jpg",
+            "publishedAt": "2024-03-01T08:09:19Z",
+            "content": "The Reserve Bank of India's (RBI) action against Paytm Payments Bank Ltd (PPBL) has brought criticism from a section of the fintech industry that said the central banks action will stifle innovation … [+7626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Avishek Banerjee",
+            "title": "PV sales continue on upward trajectory in February - Moneycontrol",
+            "description": "During the first 11 months of this fiscal, passenger carmakers sold 38,59,000 units of sedans, utility vehicles (UVs) and hatchbacks, registering an 8.6 percent increase from 33,53,000 units during the corresponding period last year",
+            "url": "https://www.moneycontrol.com/news/business/pv-sales-continue-on-upward-trajectory-in-february-12378871.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/cars-214033_1280-1-580x435.jpg",
+            "publishedAt": "2024-03-01T07:53:09Z",
+            "content": "Passenger Vehicle (PV) sales continued to move northwards for the second month in a row this year as carmakers have dispatched nearly 373,177 units to their dealers, as per industry data.\r\nAs per ind… [+4197 chars]"
+        }
+    ]
+}

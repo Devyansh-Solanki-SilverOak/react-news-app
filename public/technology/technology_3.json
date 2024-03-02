@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Afaqs.com"
+            },
+            "author": "afaqs! news bureau",
+            "title": "Myntra celebrates its birthday with Meta for a lively emoji campaign on WhatsApp - afaqs!",
+            "description": "This campaign will also see the ‘reminder’ feature giving customers the option to choose to receive reminders on offers of the event.",
+            "url": "https://www.afaqs.com/news/digital/myntra-celebrates-its-birthday-with-meta-for-a-lively-emoji-campaign-on-whatsapp",
+            "urlToImage": "https://gumlet-images.assettype.com/afaqs%2F2024-03%2Fc4c49fa4-6924-4fda-8952-473cd1a5c7a8%2F1910x1000__1_.png?rect=0%2C0%2C1905%2C1000&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2024-03-01T11:05:17Z",
+            "content": "This campaign will also see the reminder feature giving customers the option to choose to receive reminders on offers of the event.\r\nTo commemorate its 17th Birthday, Myntra has launched a fun emoji … [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Tech Desk",
+            "title": "Smartphones from Samsung, Xiaomi, Realme and Vivo set to launch in March 2024 - The Times of India",
+            "description": "Get ready for the latest smartphone launches in March 2024. Samsung, Xiaomi, Realme, and Vivo are all set to release new phones across various price ranges. Stay updated with the top smartphone launches of the month.",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/smartphones-from-samsung-xiaomi-realme-and-vivo-set-to-launch-in-march-2024/articleshow/108137211.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108137260,width-1070,height-580,imgsize-30232,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T10:24:00Z",
+            "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Google is blocking RCS on rooted Android phones and custom ROMs - Android Authority",
+            "description": "Google famously campaigned for Apple to \"get the message\" and use RCS, but now doesn't let rooted Android users use RCS.",
+            "url": "https://www.androidauthority.com/google-silently-blocking-rcs-rooted-android-phones-custom-roms-3421652/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2019/10/rcs-messages.jpg",
+            "publishedAt": "2024-03-01T10:13:17Z",
+            "content": "<ul><li>Users who have rooted their phone, have their bootloader unlocked or are using some custom ROMs report that their RCS messages are not being sent, even though RCS shows them as connected.</li… [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "WhatsApp's Latest Feature: Message Search by Date Unveiled! - Zee Business",
+            "description": "WhatsApp has rolled out a new feature for Android users allowing them to search for chats based on dates. Meta's CEO Mark Zuckerberg unveiled this new search...",
+            "url": "https://www.youtube.com/watch?v=YxExqMyY4b0",
+            "urlToImage": "https://i.ytimg.com/vi/YxExqMyY4b0/maxresdefault.jpg",
+            "publishedAt": "2024-03-01T10:09:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Tech Desk",
+            "title": "Samsung Galaxy Unpacked event reportedly scheduled for early to mid-July - The Times of India",
+            "description": "Samsung Galaxy Unpacked event reportedly scheduled for early to mid-July. Samsung recently unveiled its first smart ring — Galaxy Ring at MWC 2024 in Barcelona. Samsung is expected to launch the smart ring at its next Galaxy Unpacked event. Samsung is expecte…",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-unpacked-event-reportedly-scheduled-for-early-to-mid-july/articleshow/108136210.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108136153,width-1070,height-580,imgsize-390730,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-01T09:49:00Z",
+            "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Sucharita Ganguly, Siddharth Suvarna",
+            "title": "Nokia G42 5G New 4GB RAM Variant With 128GB Storage Launched in India: Price, Offers - Gadgets 360",
+            "description": "Nokia G42 5G was launched in India in September 2023 with two colour options and a single RAM and storage configuration. In October last year, the company introduced a third colourway and a second RAM and storage option as well. Now the company has announced …",
+            "url": "https://www.gadgets360.com/mobiles/news/nokia-g42-5g-price-india-new-ram-variant-specifications-features-hmd-global-5155544",
+            "urlToImage": "https://i.gadgets360cdn.com/large/nokia_g42_5g_nokia_1697090518112.jpg",
+            "publishedAt": "2024-03-01T09:01:01Z",
+            "content": "Nokia G42 5G was launched in India in September 2023 with two colour options and a single RAM and storage configuration. In October last year, the company introduced a third colourway and a second RA… [+1823 chars]"
+        }
+    ]
+}
